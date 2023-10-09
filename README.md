@@ -17,25 +17,24 @@
   </a>
   <hr>
   <div>
-    <p> :hammer_and_pick: <h2>My stack</h2></p>  
+    <h2>:man_technologist:My stack</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
   <hr>
 </div>
 
 <div align="center">
-<p> :fire: <h2>Most used langs</h2></p>    
+<h2> :fire:Most used langs and leetcode</h2> 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilka-no-population&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&card_width=260"/>
+   <img height=200 border="3px solid black" align="center" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono"/>
+ </div>
  <hr>
-
-<p><h2>My leetcode stats</h2></p>
-
- ![LeetCode Stats](https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono)
- <hr>
+ <h2>:man_technologist:About me</h2>
 <div/>
  
