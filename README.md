@@ -17,7 +17,7 @@
   </a>
   <hr>
   <div>
-    <p> :hammer_and_pick: <b>My stack<b/><p/>  
+    <p> :hammer_and_pick: <h2>My stack</h2></p>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -28,12 +28,12 @@
 </div>
 
 <div align="center">
-<p> :fire: <b>Most used langs<b/><p/>    
+<p> :fire: <h2>Most used langs</h2></p>    
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilka-no-population&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  <hr>
 
-:fire:<p><h3>My leetcode stats<h3/><p/>
+<p><h2>My leetcode stats</h2></p>
 
  ![LeetCode Stats](https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono)
  <hr>
