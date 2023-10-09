@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 <p><p/>
-<div id="badges" align="center" style="margin-top: 15px;">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniil-yazvinski-a09523295/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
@@ -31,7 +31,7 @@
 <h2> :fire:Most used langs and leetcode</h2> 
 
   <div>
-   <img height=200 align="center" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&card_width=200"/>
+   <img height=200 align="center" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
    <img height=200 border="3px solid black" align="center" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono"/>
  </div>
  <hr>
