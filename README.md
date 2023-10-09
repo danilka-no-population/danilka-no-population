@@ -32,7 +32,7 @@
 
   <div>
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&card_width=260"/>
-   <img height=200 border="3px solid black" align="center" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono"/>
+   <img height=200 border="3px solid black" align="center" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=dark&font=IBM%20Plex%20Mono"/>
  </div>
  <hr>
  <h2>:man_student:About me</h2>
