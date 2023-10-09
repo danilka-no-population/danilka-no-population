@@ -35,6 +35,7 @@
    <img height=200 border="3px solid black" align="center" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono"/>
  </div>
  <hr>
- <h2>:man_technologist:About me</h2>
+ <h2>:man_student:About me</h2>
+ <h4>My name is Daniil, I am 21 years old. I am a 3rd year student at the Belarusian State Technological University at the Faculty of Information Technologies. I am engaged in Frontend development, studying various technologies.</h4>
 <div/>
  
