@@ -28,7 +28,7 @@
   <hr>
 </div>
 
-<div align="center" style="width:100%;display:flex;flex-direction:column;justify-content: center;align-items: center;">
+<div align="center" style="width:100%;display:flex;flex-direction:column;justify-content: center;">
   <h2>:fire:Most used langs, my CodeWars and LeetCode</h2> 
       <img height="200" width="400" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
       <div>
