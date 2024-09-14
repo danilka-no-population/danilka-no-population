@@ -28,7 +28,7 @@
   <hr>
 </div>
 
-<div align="center" style="width:100%;height:1000px;display:flex;justify-content:center;align-content:center;>
+<div align="center" style="width:100%;height:1000px;display:flex;flex-direction:column;justify-content:center;align-content:center;">
       <h2>:fire:Most used langs, my CodeWars and LeetCode</h2> 
       <img width="400" src="https://www.codewars.com/users/danilka_no_population/badges/large"/>
       <img height="200" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono&card_width=400"/>
