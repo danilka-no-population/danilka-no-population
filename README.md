@@ -28,10 +28,10 @@
   <hr>
 </div>
 
-<div align="center" style="display:flex;flex-direction:column;>
-  <h2>:fire:Most used langs, my CodeWars and LeetCode</h2> 
-      <img src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
-      <img src="https://www.codewars.com/users/danilka_no_population/badges/large"/>
+<div align="center" style="display:flex;flex-direction:column;justify-content:center;align-content:center;>
+      <h2>:fire:Most used langs, my CodeWars and LeetCode</h2> 
+      <img height="200" width="330" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
+      <img width="400" src="https://www.codewars.com/users/danilka_no_population/badges/large"/>
       <img src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono&card_width=400"/>
 </div>
 <hr>
