@@ -33,7 +33,7 @@
       <img height="200" width="400" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
       <div>
       <img height="100" width="400" src="https://www.codewars.com/users/danilka_no_population/badges/large"/>
-      <img height="300" width="400" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono&card_width=400"/>
+      <img height="250" width="400" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono&card_width=400"/>
       </div>
 </div>
 <hr>
