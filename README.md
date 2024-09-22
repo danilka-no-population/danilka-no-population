@@ -36,5 +36,5 @@
 </div>
 <hr>
 <h2 align="center">:man_student:About me</h2>
-<h4 align="center">My name is Daniil, I am 21 years old. I am a 4th year student at the Belarusian State Technological University <br>at the Faculty of Information Technologies. I am engaged in Frontend development, studying various technologies.</h4>
+<h4 align="center">My name is Daniil, I am 22 years old. I am a 4th year student at the Belarusian State Technological University <br>at the Faculty of Information Technologies. I am engaged in Frontend development, studying various technologies.</h4>
  
