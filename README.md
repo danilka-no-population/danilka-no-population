@@ -40,5 +40,5 @@
 </div>
 <hr>
 <h2 align="center">:man_student:About me</h2>
-<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma from the Belarusian State Technological University, Faculty of Information Technology). I am an experienced Frontend developer, I develop web applications, as well as applications for Telegram Mini Apps</h4>
+<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma<br>from the Belarusian State Technological University, Faculty of Information Technology). I am an experienced<br>Frontend developer, I develop web applications, as well as applications for Telegram Mini Apps</h4>
  
