@@ -24,6 +24,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="RTK" alt="RTK" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </div>
   <hr>
 </div>
@@ -36,5 +40,5 @@
 </div>
 <hr>
 <h2 align="center">:man_student:About me</h2>
-<h4 align="center">My name is Daniil, I am 22 years old. I am a 4th year student at the Belarusian State Technological University <br>at the Faculty of Information Technologies. I am engaged in Frontend development, studying various technologies.</h4>
+<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma from the Belarusian State Technological University, Faculty of Information Technology). I am an experienced Frontend developer, I develop web applications, as well as applications for Telegram Mini Apps</h4>
  
