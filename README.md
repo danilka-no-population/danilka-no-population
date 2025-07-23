@@ -32,12 +32,11 @@
 </div>
 
 <div align="center" style="width:100%;height:100%;">
-      <h2>:fire:Most used langs, my CodeWars and LeetCode</h2> 
+      <h2>:fire:Most used langs and my GitHub Stats</h2> 
       <img height="180" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
-      <img height="180" src="https://leetcard.jacoblin.cool/danilka_no_population?theme=wtf&font=IBM%20Plex%20Mono&card_width=400"/>
-      <img width="400" src="https://www.codewars.com/users/danilka_no_population/badges/large"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=false&username=danilka-no-population&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only"/>
 </div>
 <hr>
 <h2 align="center">:man_student:About me</h2>
-<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma<br>from the Belarusian State Technological University, Faculty of Information Technology). I am an experienced<br>Frontend developer, I develop web applications, as well as applications for Telegram Mini Apps</h4>
+<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma from the<br>Belarusian State Technological University, Faculty of Information Technology). I am an experienced Frontend developer.<br>I develop web applications using technologies such as React, Typescript, HTML, CSS/SCSS, Git and others</h4>
  
