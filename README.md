@@ -1,6 +1,9 @@
+---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
+<h2 align="center">:man_student:About me</h2>
+<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma from the<br>Belarusian State Technological University, Faculty of Information Technology). I am an experienced Frontend developer.<br>I develop web applications using technologies such as React, Typescript, HTML, CSS/SCSS, Git and others</h4>
 <p></p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniil-yazvinski-a09523295/">
@@ -15,28 +18,48 @@
   <a href="https://vk.com/ynw_dy">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <hr>
-  <div>
-    <h2>:man_technologist:My main stack</h2>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/374068/scss.svg"  title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postman" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="RTK" alt="RTK" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  </div>
-  <hr>
 </div>
 
-<div align="center" style="width:100%;height:100%;">
-      <h2>:fire:Most used langs and my GitHub Stats</h2> 
-      <img height="180" src="https://github-readme-stats-mu-silk-14.vercel.app/api/top-langs?username=danilka-no-population&layout=compact&langs_count=8&theme=transparent&exclude_repo=github-readme-stats&card_width=250"/>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?custom_title=GitHub%20Stats&show_icons=true&hide_rank=false&count_private=true&disable_animations=false&username=danilka-no-population&cache_seconds=1800&locale=en&border_color=57a5fe&theme=github_light#gh-light-mode-only"/>
+<div align="center">
+
+---
+
+<h2>💻 Tech Stack</h3>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 </div>
-<hr>
-<h2 align="center">:man_student:About me</h2>
-<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma from the<br>Belarusian State Technological University, Faculty of Information Technology). I am an experienced Frontend developer.<br>I develop web applications using technologies such as React, Typescript, HTML, CSS/SCSS, Git and others</h4>
- 
+
+---
+<div align="center">
+
+<h3>📊 GitHub Stats</h3>
+
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=danilka-no-population&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilka-no-population&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+</div>
+
+---
