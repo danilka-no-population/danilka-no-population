@@ -51,9 +51,7 @@
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=danilka-no-population&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilka-no-population&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <h4>My work experience is 1.5 years of commercial development as of 06/01/2026</h4>
 
 </div>
 
