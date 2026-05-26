@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 </div>
 <h2 align="center">:man_student:About me</h2>
-<h4 align="center">My name is Daniil, I am 22 years old. I am a certified specialist in Frontend development (diploma from the<br>Belarusian State Technological University, Faculty of Information Technology). I am an experienced Frontend developer.<br>I develop web applications using technologies such as React, Typescript, HTML, CSS/SCSS, Git and others</h4>
+<h4 align="center">My name is Daniil, and I'm 22 years old. I have a degree in front-end development (I graduated from the Belarusian State Technological University, Faculty of Information Technology). I'm an experienced front-end developer.
+I develop web applications using technologies such as React/Vue, Typescript/Javascript, HTML, CSS/SCSS, Tailwind, Git, and others.</h4>
 <p></p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniil-yazvinski-a09523295/">
