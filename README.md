@@ -52,7 +52,7 @@ I develop web applications using technologies such as React/Vue, Typescript/Java
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <h4>My work experience is 1.5 years of commercial development as of 06/01/2026</h4>
+  <h4>I currently have over three years of commercial development experience using React, Next.js, TypeScript, Tailwind, Zustand and other technologies. I've worked in both outsourcing and product development.</h4>
 
 </div>
 
